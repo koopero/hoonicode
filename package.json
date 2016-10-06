@@ -1,0 +1,26 @@
+{
+  "name": "hoonicode",
+  "version": "0.1.0",
+  "description": "Randomly replace ASCII characters with non-ASCII",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koopero/hoonicode.git"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "unicode",
+    "replace",
+    "random"
+  ],
+  "author": "Samm Zuest Cooper <koopero@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koopero/hoonicode/issues"
+  },
+  "homepage": "https://github.com/koopero/hoonicode#readme"
+}
